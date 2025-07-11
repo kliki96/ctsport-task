@@ -2,6 +2,7 @@
 
 ## Description  
 This is a project for CT job interview pursposes. 
+The tests should verify the functionality of CT Sport web.
 
 ## Installation  
 1. Clone the repo  
@@ -12,9 +13,6 @@ This is a project for CT job interview pursposes.
 ## Usage  
 For running the tests from my task, please run 
 `npx playwright test ./tests/` for a headless run or `npx playwright --debug test ./tests/` for a UI run
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact  
 Your Name - klikarova5@seznam.cz 
